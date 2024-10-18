@@ -1,2 +1,4 @@
-# Data-Work
-20240818 - 2YP
+# Research Proposal 
+
+Folder USPTO_Data contains some data initial exploration using data from USPTO. UPSTO has three different public use datasets, including downloadable tables from USPTO website and downloadable and API from Patentsivew - a third party data host. Among the three options, data hosted by Patentsview has the most documentation. The methodology of how Patentsview built and improve the dataset is well documentated. The initial intent is to replicate some basic facts about US patents used in previous research and publications. Data is imperfect. The raw data contains empty cells and duplicates. Adding correction for such actually contradicts to data work by previous researchers. In the work file under USPTO_Data, I have also added the general trends of patents filed at USPTO segmented by countries including China, Canada, France and Japan. The data work is consistent where China has been massively applying for IP worldwide
+
